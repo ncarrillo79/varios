@@ -1,0 +1,10 @@
+terminal1
+
+npm start
+npm i live-server
+npm init
+npm i babel-cli babel-preset-react babel-preset-env
+npm run build
+npm run dev
+
+terminal2
